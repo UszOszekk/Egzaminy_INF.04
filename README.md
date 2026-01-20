@@ -1,15 +1,36 @@
-# Egzaminy_INF.04
-Przykładowe rozwiązania egzaminów INF.04
+# 📚 Egzaminy INF.04
 
-Tutaj są pliki przykładowych rozwiązań egzaminów INF.04
+Przykładowe rozwiązania egzaminów zawodowych INF.04
 
-zrobiłem je sam i nie mówie że one są bezbłędne więc zapraszam do robienia Pull Request'ów!!!!
+---
 
-są same pliki z kodami bez całych projektów wystarczy sobie wkleić do swojego projektu i powinno działać :)
+## 📖 Opis
 
-**W Czym było pisane??**
+Repozytorium zawiera kolekcję przykładowych rozwiązań egzaminów INF.04, które mogą pomóc w przygotowaniu się do egzaminu zawodowego. 
 
-Konsola: C#
-Desktop: C# (Windows Forms do 2026 jeszcze można)
-Mobilna: C#, XAML (.NET MAUI)
-Webowa: React
+> ⚠️ **Uwaga:** Rozwiązania zostały przygotowane samodzielnie i mogą zawierać błędy. Wszelkie poprawki i uwagi są mile widziane! Można zrobić Pull Requesta czy coś
+
+---
+
+## 📁 Zawartość
+
+Repozytorium zawiera **same pliki z kodami** bez pełnych struktur projektów.  
+
+✅ Wystarczy skopiować kod do swojego projektu i powinien działać od razu!
+
+---
+
+## 🛠️ Technologie
+
+Rozwiązania zostały przygotowane w następujących technologiach: 
+
+| Typ aplikacji | Technologia | Uwagi |
+|--------------|-------------|-------|
+| 🖥️ **Konsola** | C# | |
+| 🪟 **Desktop** | C# (Windows Forms) | Dopuszczalne do 2026 roku |
+| 📱 **Mobilna** | C#, XAML (.NET MAUI) | |
+| 🌐 **Webowa** | React | |
+
+---
+
+**Powodzenia na egzaminie!  🚀**

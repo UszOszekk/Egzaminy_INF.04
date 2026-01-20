@@ -33,4 +33,10 @@ Rozwiązania zostały przygotowane w następujących technologiach:
 
 ---
 
+## Dokumentacja
+
+Casami jest czasami nie ma, Testy jednostkowe i inne takie "trudniejsze rzeczy" powinny być wszystkie
+
+
+---
 **Powodzenia na egzaminie!  🚀**

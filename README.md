@@ -2,6 +2,8 @@
 
 Przykładowe rozwiązania egzaminów zawodowych INF.04
 
+Egzaminy będą dodawane na dniach niedawno stworzyłem to repozytorium więc narazie nie ma wszystkiego 
+
 ---
 
 ## Opis

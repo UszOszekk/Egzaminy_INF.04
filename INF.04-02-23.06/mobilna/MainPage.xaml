@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="INF._04_02_23._06_SG_mobile_.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Margin="20">
+            <Label 
+                Text="właściwości czcionki"
+                BackgroundColor="#558B2F"
+                TextColor="White"
+                FontAttributes="Bold"
+                FontSize="30"
+                />
+            <Label 
+                x:Name="rozmiarText"
+                Text="Rozmiar"
+                FontSize="Medium"
+                
+            />
+            <Slider
+                ValueChanged="Slider_ValueChanged"
+                x:Name="slider2"
+                Minimum="0"
+                Maximum="40"
+                
+                />
+
+            <Label 
+                x:Name="Cytat"    
+                Text="Dzień dobry"
+            />
+
+            <Button
+                x:Name="przycisk"
+                Text=">>"
+                Clicked="przycisk_Clicked"    
+                BackgroundColor="#558B2F"
+                HorizontalOptions="Center"
+                FontAttributes="Bold"
+            />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

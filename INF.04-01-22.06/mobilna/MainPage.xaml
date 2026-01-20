@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="INF._04_01_22._06_SG_mobilna_.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="20 0 0 0"
+            Spacing="25">
+           
+
+            <Label
+                Text="Domek w górach"
+                FontSize="32"
+            />
+            <Image
+                Source="image.png"
+                
+            />
+
+            <HorizontalStackLayout BackgroundColor="#008080">
+                <Button
+                    BackgroundColor="#008080"
+                    Text="POLUB" 
+                    x:Name="PolubBtn"
+                    Clicked="OnPolubClicked"
+                />
+                <Button
+                    BackgroundColor="#008080"
+                    Text="USUŃ" 
+                    x:Name="UsunBtn"
+                    Clicked="OnUsunClicked"
+                />
+                <Button
+                    BackgroundColor="#008080"
+                    Text="ZAPISZ" 
+                />
+            </HorizontalStackLayout>
+            <Label
+                x:Name="PolubienieText"
+                Text="0 polubień"
+                FontSize="16"
+                HorizontalTextAlignment="End"
+            />
+            <Line  X1="0" Y1="0" X2="99999999" Y2="0" Stroke="#808080"/>
+            
+            <Label
+                Text="Opis"
+                FontSize="16"
+                FontAttributes="Bold"
+            />
+            <Label
+                Text="Odwiedź komfortowy domek w Sudetach, blisko do szlaków turystycznych"
+                FontSize="16"
+                
+            />
+  
+
+            
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

@@ -1,0 +1,8 @@
+.zdjecieBox {
+  margin: 5px;
+  border-radius: 8px;
+}
+.galeria {
+  display: flex;
+  flex-wrap: wrap;
+}

@@ -1,6 +1,6 @@
 # Egzaminy INF.04
 
-Przykładowe rozwiązania egzaminów zawodowych INF.04
+Przykładowe rozwiązania egzaminów zawodowych INF.04(Nie mówie że są to najlepsze rozwiązania)
 
 Egzaminy będą dodawane na dniach niedawno stworzyłem to repozytorium więc narazie nie ma wszystkiego 
 

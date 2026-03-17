@@ -15,12 +15,10 @@ internal class Program
     {
         int wartownik = szukana;
         tab[tab.Length - 1] = wartownik;
-        int naKtorymElemencieZnalezione = tab.Length;
         for (int i = 0; i < tab.Length; i++)
         {
-            if (tab[i] == szukana)
+            if (tab[i] == szukana){
 
-            {
                 return i;
             }
         }
@@ -47,7 +45,6 @@ internal class Program
     {
 
         int[] tab = new int[51];
-        int[] tab1 = new int[51];
         Wypelnij(tab);
         Console.WriteLine("Podaj liczbe, ktora chcesz znalezc w tablicy (1 - 100)");
         int PodanaPrzezUzytkownika = int.Parse(Console.ReadLine());

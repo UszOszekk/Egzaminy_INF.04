@@ -59,7 +59,7 @@ Legenda: ✅ zrobione &nbsp;|&nbsp; ❌ brakuje
 
 | Egzamin | Nazwa | Typ | Konsolowa | Aplikacja |
 |---------|-------|-----|:---------:|:---------:|
-| INF.04-01-23.01 | Dodaj pracownika | Desktop | ❌ | ❌ |
+| INF.04-01-23.01 | Dodaj pracownika | Desktop | ❌ | ✅ |
 | INF.04-02-23.01 | Proste notatki tekstowe | Mobilna | ✅ | ❌ |
 
 ---
@@ -71,13 +71,13 @@ Legenda: ✅ zrobione &nbsp;|&nbsp; ❌ brakuje
 | Egzamin | Nazwa | Typ | Konsolowa | Aplikacja |
 |---------|-------|-----|:---------:|:---------:|
 | INF.04-01-22.06 | Domek w górach | Mobilna | ✅ | ✅ |
-| INF.04-02-22.06 | Formularz kursy | Web | ❌ | ✅ |
+| INF.04-02-22.06 | Formularz kursy | Web | ✅ | ✅ |
 
 #### ❄️ Zima
 
 | Egzamin | Nazwa | Typ | Konsolowa | Aplikacja |
 |---------|-------|-----|:---------:|:---------:|
-| INF.04-01-22.01 | Rejestruj konto | Mobilna | ❌ | ❌ |
+| INF.04-01-22.01 | Rejestruj konto | Mobilna | ✅ | ✅ |
 z tego co mi się wydaje to to samo co w lato 2021
 
 ---

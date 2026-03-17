@@ -5,42 +5,6 @@ Przykładowe rozwiązania egzaminów zawodowych INF.04(Nie mówie że są to naj
 Egzaminy będą dodawane na dniach niedawno stworzyłem to repozytorium więc narazie nie ma wszystkiego 
 
 ---
-
-## Opis
-
-Repozytorium zawiera kolekcję przykładowych rozwiązań egzaminów INF.04, które mogą pomóc w przygotowaniu się do egzaminu zawodowego.
-
-> **Uwaga:** Rozwiązania zostały przygotowane samodzielnie i mogą zawierać błędy. Wszelkie poprawki i uwagi są mile widziane!
-
----
-
-## Zawartość
-
-Repozytorium zawiera **same pliki z kodami** bez pełnych struktur projektów. 
-
-Wystarczy skopiować kod do swojego projektu i powinien działać od razu. 
-
----
-
-## Technologie
-
-Rozwiązania zostały przygotowane w następujących technologiach:
-
-| Typ aplikacji | Technologia | Uwagi |
-|---------------|-------------|-------|
-| **Konsola** | C# | - |
-| **Desktop** | C# (Windows Forms) | Dopuszczalne do 2026 roku |
-| **Mobilna** | C#, XAML (.NET MAUI) | - |
-| **Webowa** | React | - |
-
----
-
-## Dokumentacja
-
-Casami jest czasami nie ma, Testy jednostkowe i inne takie "trudniejsze rzeczy" powinny być wszystkie
-
----
-
 ## Status rozwiązań
 
 Legenda: ✅ zrobione &nbsp;|&nbsp; ❌ brakuje
@@ -127,4 +91,40 @@ z tego co mi się wydaje to to samo co w lato 2021
 | INF.04-01-21.06 | Rejestruj konto | Mobilna | ✅ | ✅ |
 
 ---
+
+## Opis
+
+Repozytorium zawiera kolekcję przykładowych rozwiązań egzaminów INF.04, które mogą pomóc w przygotowaniu się do egzaminu zawodowego.
+
+> **Uwaga:** Rozwiązania zostały przygotowane samodzielnie i mogą zawierać błędy. Wszelkie poprawki i uwagi są mile widziane!
+
+---
+
+## Zawartość
+
+Repozytorium zawiera **same pliki z kodami** bez pełnych struktur projektów. 
+
+Wystarczy skopiować kod do swojego projektu i powinien działać od razu. 
+
+---
+
+## Technologie
+
+Rozwiązania zostały przygotowane w następujących technologiach:
+
+| Typ aplikacji | Technologia | Uwagi |
+|---------------|-------------|-------|
+| **Konsola** | C# | - |
+| **Desktop** | C# (Windows Forms) | Dopuszczalne do 2026 roku |
+| **Mobilna** | C#, XAML (.NET MAUI) | - |
+| **Webowa** | React | - |
+
+---
+
+## Dokumentacja
+
+Casami jest czasami nie ma, Testy jednostkowe i inne takie "trudniejsze rzeczy" powinny być wszystkie
+
+---
+
 **Powodzenia na egzaminie!  🚀**

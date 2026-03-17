@@ -47,18 +47,12 @@ namespace INF._04_02_24._01_SG
             string tekstUsunietePowtorzenia = "";
             for(int i = 0; i < tekst.Length; i++)
             {
-                for(int j = i+1; j < tekst.Length ; j++)
-                {
-                    if (tekst[i] == tekst[j])
-                    {
-                        i++;
-                    }
-                    else
-                    {
-                        break;
-                    }
-                }
                 tekstUsunietePowtorzenia += tekst[i];
+
+                while(i + 1 < tekst.Length && tekst[i] == tekst[i + 1])
+                {
+                    i++;
+                }
             }
 
             return tekstUsunietePowtorzenia;

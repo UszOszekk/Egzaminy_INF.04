@@ -30,8 +30,14 @@ namespace INF._04_02_24._06_SG
                    Console.WriteLine(plik[i]);
                }
                 List<Album> tablicaAlbumów = new List<Album>();
-               for(int i = 0; i < plik.Length; i++)
+               for(int i = 0; i + 4 < plik.Length; )
                 {
+
+                    if (string.IsNullOrWhiteSpace(plik[i]))
+                    {
+                        i++;
+                        continue;
+                    }
 
 
                     Album album = new Album();

@@ -2,7 +2,7 @@ import { useState } from "react";
 import "bootstrap/dist/css/bootstrap.css";
 function App() {
   const [imieiNazwisko, setImieINazwisko] = useState("");
-  const [wybranyNrKursu, setWybranyNrKursu] = useState("");
+  const [wybranyNrKursu, setWybranyNrKursu] = useState(0);
 
   let kursy = [
     "Programowanie w C#",
@@ -43,7 +43,7 @@ function App() {
             className="form-control"
             type="number"
             id="nrKurs"
-            onChange={(e) => setWybranyNrKursu(e.target.value)}
+            onChange={(e) => setWybranyNrKursu(parseInt(e.target.value) || 0)}
           />
         </div>
         <button className="btn btn-primary" type="submit">

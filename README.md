@@ -24,7 +24,7 @@ Legenda: ✅ zrobione &nbsp;|&nbsp; ❌ brakuje
 | Egzamin         | Nazwa             | Typ     | Konsolowa | Aplikacja |
 | --------------- | ----------------- | ------- | :-------: | :-------: |
 | INF.04-01-25.01 | Kategorie zdjęć   | Web     |    ❌     |    ✅     |
-| INF.04-02-25.01 | Urządzenia domowe | Mobilna |    ❌     |    ❌     |
+| INF.04-02-25.01 | Urządzenia domowe | Mobilna |    ✅     |    ❌     |
 
 ---
 
@@ -54,7 +54,7 @@ Legenda: ✅ zrobione &nbsp;|&nbsp; ❌ brakuje
 | --------------- | -------------------- | ------- | :-------: | :-------: |
 | INF.04-01-23.06 | Nadaj Przesyłkę      | Desktop |    ✅     |    ✅     |
 | INF.04-02-23.06 | Właściwości czcionki | Mobilna |    ✅     |    ✅     |
-| INF.04-03-23.06 | Formularz filmy      | Web     |    ❌     |    ✅     |
+| INF.04-03-23.06 | Formularz filmy      | Web     |    ✅     |    ✅     |
 
 #### ❄️ Zima
 

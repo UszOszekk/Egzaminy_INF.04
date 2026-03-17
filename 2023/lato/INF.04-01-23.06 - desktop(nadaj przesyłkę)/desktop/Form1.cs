@@ -43,7 +43,7 @@ namespace INF._04_01_23._06_SG_desktop_
 
         private void zatwierdzBtn_Click(object sender, EventArgs e)
         {
-            if (kodPocztowy.Text.Length < 5)
+            if (kodPocztowy.Text.Length != 5)
             {
                 MessageBox.Show("Nieprawidłowa liczba cyfr w kodzie pocztowym");
             }

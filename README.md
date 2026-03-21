@@ -10,6 +10,15 @@ Egzaminy będą dodawane na dniach niedawno stworzyłem to repozytorium więc na
 
 Legenda: ✅ zrobione &nbsp;|&nbsp; ❌ brakuje
 
+### 2026
+
+#### ❄️ Zima
+
+| Egzamin         | Nazwa         | Typ     | Konsolowa | Aplikacja |
+| --------------- | ------------- | ------- | :-------: | :-------: |
+| INF.04-01-26.01 | Rzut 5 kostek | Mobilna |    ❌     |    ❌ - assety są dostępne    | 
+| INF.04-02-26.01 | Quiz          | Mobilna |    ✅     |    ❌ - assety są dostępne    | 
+
 ### 2025
 
 #### 🌞 Lato

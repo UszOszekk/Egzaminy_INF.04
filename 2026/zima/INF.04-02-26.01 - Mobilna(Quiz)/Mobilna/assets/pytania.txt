@@ -1,0 +1,41 @@
+pytanie 1
+Które to schronisko?
+
+odpowiedzi
+Na Rysiance.
+Na Wielkiej Raczy.
+Na Wielkiej Rycerzowej.
+
+odpowiedz poprawna
+Na Wielkiej Raczy.
+
+obraz zad1.jpg
+---------------------------------------------------
+
+pytanie 2
+Zwierzę na zdjęciu to
+
+odpowiedzi
+owczarek.
+wilk.
+kozica.
+
+odpowiedz poprawna
+owczarek.
+
+obraz zad2.jpg
+---------------------------------------------------
+
+pytanie 3
+W oddali są widoczne
+
+odpowiedzi
+Himalaje.
+Alpy.
+Tatry.
+
+odpowiedz poprawna
+Tatry.
+
+obraz zad3.jpg
+---------------------------------------------------

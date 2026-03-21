@@ -2,7 +2,7 @@ import { useState } from "react";
 import "bootstrap/dist/css/bootstrap.css";
 function App() {
   const [imieiNazwisko, setImieINazwisko] = useState("");
-  const [wybranyNrKursu, setWybranyNrKursu] = useState(0);
+  const [wybranyNrKursu, setWybranyNrKursu] = useState("");
 
   let kursy = [
     "Programowanie w C#",
@@ -43,7 +43,7 @@ function App() {
             className="form-control"
             type="number"
             id="nrKurs"
-            onChange={(e) => setWybranyNrKursu(parseInt(e.target.value) || 0)}
+            onChange={(e) => setWybranyNrKursu(e.target.value)}
           />
         </div>
         <button className="btn btn-primary" type="submit">
@@ -53,17 +53,5 @@ function App() {
     </>
   );
 }
-// kursy[wybranyNrKursu - 1]
-//   ? kursy[wybranyNrKursu - 1]
-//   : "Nieprawidłowy Numer Kursu";
 
-// onClick={() =>
-//             console.log(
-//               imieiNazwisko +
-//                 " " +
-//                 (wybranyNrKursu > 0 && wybranyNrKursu <= kursy.length
-//                   ? kursy[wybranyNrKursu - 1]
-//                   : "Nieprawidłowy Numer Kursu")
-//             )
-//           }
 export default App;

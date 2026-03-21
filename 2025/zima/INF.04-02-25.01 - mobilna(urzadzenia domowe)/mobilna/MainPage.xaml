@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="urzadzenia_mobilna.MainPage"
+             BackgroundColor="#ADD8E6">
+
+    <ScrollView>
+        <VerticalStackLayout>
+
+            <Label
+                Text="Urządzenia domowe"
+                Margin="5"
+                HorizontalOptions="Center"
+                FontSize="30"/>
+
+            <Label 
+                Text="Autor: AUTOR"
+                Margin="5"
+                HorizontalOptions="Center"
+                FontSize="15"/>
+
+            <HorizontalStackLayout>
+                <Image 
+                    Source="pralka.jpg" HeightRequest="150" Margin="20, 0, 20, 20"/>
+
+                <VerticalStackLayout>
+                    <Label
+                        Text="Pralka"
+                        FontSize="20"/>
+
+                    <Entry
+                        x:Name="programEntry"
+                        Placeholder="Podaj nr prania 1..12"
+                        Keyboard="Numeric"
+                        BackgroundColor="#87CEEB"
+                        TextColor="#000080"
+                        PlaceholderColor="#000080"/>
+
+                    <Button 
+                        Text="Zatwierdź"
+                        Clicked="ustawProgram"
+                        BackgroundColor="#4169E1"
+                        Margin="10"/>
+
+                    <Label
+                        x:Name="programPrania"
+                        Text="Numer prania: nie podano"/>
+                </VerticalStackLayout>
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout>
+                <Image 
+                    Source="odkurzacz.jpg"
+                    HeightRequest="150"
+                    Margin="20, 0, 20, 20"/>
+
+                <VerticalStackLayout>
+                    <Label
+                        Text="Odkurzacz"
+                        FontSize="20"/>
+
+                    <Button 
+                        x:Name="wlacznik"
+                        Text="Włącz"
+                        Clicked="wlaczWylaczOdkurzacz"
+                        BackgroundColor="#4169E1"
+                        Margin="10"/>
+
+                    <Label
+                        x:Name="stanOdkurzacza"
+                        Text="Odkurzacz wyłączony"/>
+
+                    <Label
+                        Text="Status: naładowany"/>
+                    
+                </VerticalStackLayout>
+            </HorizontalStackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

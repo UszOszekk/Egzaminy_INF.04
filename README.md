@@ -14,10 +14,10 @@ Legenda: ✅ zrobione &nbsp;|&nbsp; ❌ brakuje
 
 #### ❄️ Zima
 
-| Egzamin         | Nazwa         | Typ     | Konsolowa | Aplikacja |
-| --------------- | ------------- | ------- | :-------: | :-------: |
-| INF.04-01-26.01 | Rzut 5 kostek | Mobilna |    ❌     |    ❌ - assety są dostępne    | 
-| INF.04-02-26.01 | Quiz          | Mobilna |    ✅     |    ❌ - assety są dostępne    | 
+| Egzamin         | Nazwa         | Typ     | Konsolowa |        Aplikacja        |
+| --------------- | ------------- | ------- | :-------: | :---------------------: |
+| INF.04-01-26.01 | Rzut 5 kostek | Mobilna |    ✅     | ❌ - assety są dostępne |
+| INF.04-02-26.01 | Quiz          | Mobilna |    ✅     | ❌ - assety są dostępne |
 
 ---
 
@@ -27,7 +27,7 @@ Legenda: ✅ zrobione &nbsp;|&nbsp; ❌ brakuje
 
 | Egzamin         | Nazwa                           | Typ     | Konsolowa | Aplikacja |
 | --------------- | ------------------------------- | ------- | :-------: | :-------: |
-| INF.04-01-25.06 | Wybieranie kolorów z palety RGB | Desktop |    ✅     |    ❌     |
+| INF.04-01-25.06 | Wybieranie kolorów z palety RGB | Desktop |    ✅     |    ✅     |
 | INF.04-02-25.06 | Szyfrowanie                     | Desktop |    ✅     |    ✅     |
 
 #### ❄️ Zima
@@ -35,7 +35,7 @@ Legenda: ✅ zrobione &nbsp;|&nbsp; ❌ brakuje
 | Egzamin         | Nazwa             | Typ     | Konsolowa | Aplikacja |
 | --------------- | ----------------- | ------- | :-------: | :-------: |
 | INF.04-01-25.01 | Kategorie zdjęć   | Web     |    ❌     |    ✅     |
-| INF.04-02-25.01 | Urządzenia domowe | Mobilna |    ✅     |    ❌     |
+| INF.04-02-25.01 | Urządzenia domowe | Mobilna |    ✅     |    ✅     |
 
 ---
 
@@ -52,7 +52,7 @@ Legenda: ✅ zrobione &nbsp;|&nbsp; ❌ brakuje
 
 | Egzamin         | Nazwa                            | Typ     | Konsolowa | Aplikacja |
 | --------------- | -------------------------------- | ------- | :-------: | :-------: |
-| INF.04-01-24.01 | Wprowadzenie danych do paszportu | Desktop |    ✅     |    ❌     |
+| INF.04-01-24.01 | Wprowadzenie danych do paszportu | Desktop |    ✅     |    ✅     |
 | INF.04-02-24.01 | Wizyta u weterynarza             | Mobilna |    ✅     |    ❌     |
 
 ---

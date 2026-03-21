@@ -53,7 +53,7 @@ Legenda: ✅ zrobione &nbsp;|&nbsp; ❌ brakuje
 | Egzamin         | Nazwa                            | Typ     | Konsolowa | Aplikacja |
 | --------------- | -------------------------------- | ------- | :-------: | :-------: |
 | INF.04-01-24.01 | Wprowadzenie danych do paszportu | Desktop |    ✅     |    ❌     |
-| INF.04-02-24.01 | Wizyta u weterynarza             | Mobilna |    ✅     |    ✅     |
+| INF.04-02-24.01 | Wizyta u weterynarza             | Mobilna |    ✅     |    ❌     |
 
 ---
 

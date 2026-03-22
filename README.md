@@ -34,7 +34,7 @@ Legenda: ✅ zrobione &nbsp;|&nbsp; ❌ brakuje
 
 | Egzamin         | Nazwa             | Typ     | Konsolowa | Aplikacja |
 | --------------- | ----------------- | ------- | :-------: | :-------: |
-| INF.04-01-25.01 | Kategorie zdjęć   | Web     |    ❌     |    ✅     |
+| INF.04-01-25.01 | Kategorie zdjęć   | Web     |    ✅     |    ✅     |
 | INF.04-02-25.01 | Urządzenia domowe | Mobilna |    ✅     |    ✅     |
 
 ---

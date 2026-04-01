@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="proste_notatki_tekstowe.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25">
+            <HorizontalStackLayout>
+                <Entry MinimumWidthRequest="342" x:Name="WprowadzanieTextBox"></Entry>
+                <Button Text="Dodaj" CornerRadius="0" BackgroundColor="#DC143C" Clicked="DodajBtnClicked"></Button>
+            </HorizontalStackLayout>
+            <ListView 
+                x:Name="ListaListView"
+                ItemsSource="{Binding Items}"
+                SeparatorColor="Crimson"
+                SeparatorVisibility="Default">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell Text="{Binding .}" />
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+            </ListView>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

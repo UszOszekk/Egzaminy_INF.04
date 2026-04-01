@@ -72,7 +72,7 @@ Legenda: ✅ zrobione &nbsp;|&nbsp; ❌ brakuje
 | Egzamin         | Nazwa                   | Typ     | Konsolowa | Aplikacja |
 | --------------- | ----------------------- | ------- | :-------: | :-------: |
 | INF.04-01-23.01 | Dodaj pracownika        | Desktop |    ✅     |    ✅     |
-| INF.04-02-23.01 | Proste notatki tekstowe | Mobilna |    ✅     |    ❌     |
+| INF.04-02-23.01 | Proste notatki tekstowe | Mobilna |    ✅     |    ✅     |
 
 ---
 
